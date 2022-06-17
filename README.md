@@ -2,7 +2,7 @@
 **devAmoghS/devamoghs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Hi there 👋, my name is Amogh and I help people and organizations take their models beyond the shelf. 😄
+### Hi there 👋, my name is `Amogh` and I help people and organizations take their models beyond the shelf. 😄
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amogh-singhal/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Amogh-blue?logo=linkedin" /></a>
