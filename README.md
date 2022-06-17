@@ -1,15 +1,17 @@
 <!--
 **devAmoghS/devamoghs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">, I am Amogh</h1>
+<h3 align="center"> and I help people and organizations take their models beyond the shelf. 😄 </h3>
+<br/><br/>
 
-### Hi there 👋, my name is `Amogh` and I help people and organizations take their models beyond the shelf. 😄
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amogh-singhal/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Amogh-blue?logo=linkedin" /></a>
   <a href="https://medium.com/@singhal.amogh1995" target="_blank"><img src="https://img.shields.io/badge/Blog-Visit%20Medium-blue.svg" /></a>
 </p>
 
-- 🔭 I’m currently working as a Data Science Consultant at EY India.
+- 🔭 I’m currently working as a Data Science Consultant at <a href="https://www.ey.com/en_in/big-data-analytics">EY India</a>.
 - 💬 Ask me about how to break into the Data domain, how to execute high-impact business problems with the help of software engineering and data science, or how to improve your chances of getting an interview call from a company of your liking.
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/amogh-singhal/).
 - ⚡ Other things I am interested in :
