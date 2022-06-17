@@ -11,14 +11,16 @@
   <a href="https://medium.com/@singhal.amogh1995" target="_blank"><img src="https://img.shields.io/badge/Blog-Visit%20Medium-blue.svg" /></a>
 </p>
 
-- 🔭 I’m currently working as a Data Science Consultant at <a href="https://www.ey.com/en_in/big-data-analytics">EY India</a>.
-- 💬 Ask me about how to break into the Data domain, how to execute high-impact business problems with the help of software engineering and data science, or how to improve your chances of getting an interview call from a company of your liking.
-- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/amogh-singhal/).
-- ⚡ Other things I am interested in :
-  * Chess
-  * Comics
-  * Quizzing
-  * Reading about History, Economics and Linguistics
+
+### - 🔭 I’m currently working as a Data Science Consultant at <a href="https://www.ey.com/en_in/big-data-analytics">EY India</a>.
+### - 💬 Ask me about how to break into the Data domain, how to execute high-impact business problems with the help of software engineering and data science, or how to improve your chances of getting an interview call from a company of your liking.
+### - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/amogh-singhal/).
+### - ⚡ Other things I am interested in :
+###  * Chess
+###  * Comics
+###  * Quizzing
+###  * Reading about History, Economics and Linguistics
+
 
 ### My writings
 <!-- BLOG-POST-LIST:START -->
