@@ -12,7 +12,7 @@
 </p>
 
 
-### - 🔭 I’m currently working as a Data Science Consultant at <a href="https://www.ey.com/en_in/big-data-analytics">EY India</a>.
+### - 🔭 I’m currently working as a Sr. ML Engineer at <a href="https://www.ey.com/en_in/big-data-analytics">EY India</a>.
 ### - 💬 Ask me about : 
 * How to break into the Data domain, 
 * How to execute high-impact business problems with the help of software engineering and data science, or 
