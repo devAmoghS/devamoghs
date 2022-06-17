@@ -16,10 +16,10 @@
 ### - 💬 Ask me about how to break into the Data domain, how to execute high-impact business problems with the help of software engineering and data science, or how to improve your chances of getting an interview call from a company of your liking.
 ### - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/amogh-singhal/).
 ### - ⚡ Other things I am interested in :
-###  * Chess
-###  * Comics
-###  * Quizzing
-###  * Reading about History, Economics and Linguistics
+  * Chess
+  * Comics
+  * Quizzing
+  * Reading about History, Economics and Linguistics
 
 
 ### My writings
