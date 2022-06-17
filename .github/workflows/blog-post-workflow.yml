@@ -14,4 +14,4 @@ jobs:
       - name: Pull in Medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/@singhal.amogh1995"
+          feed_list: "https://medium.com/feed/@singhal.amogh1995"
