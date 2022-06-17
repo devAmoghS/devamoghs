@@ -13,7 +13,10 @@
 
 
 ### - 🔭 I’m currently working as a Data Science Consultant at <a href="https://www.ey.com/en_in/big-data-analytics">EY India</a>.
-### - 💬 Ask me about how to break into the Data domain, how to execute high-impact business problems with the help of software engineering and data science, or how to improve your chances of getting an interview call from a company of your liking.
+### - 💬 Ask me about : 
+* How to break into the Data domain, 
+* How to execute high-impact business problems with the help of software engineering and data science, or 
+* How to improve your chances of getting an interview call from a company of your liking.
 ### - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/amogh-singhal/).
 ### - ⚡ Other things I am interested in :
   * Chess
