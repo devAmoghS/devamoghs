@@ -18,6 +18,10 @@ Hi there 👋, my name is Amogh and I help people and organizations take their m
   * Quizzing
   * Reading about History, Economics and Linguistics
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devAmoghS&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />
 </p>
