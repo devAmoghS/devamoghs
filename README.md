@@ -18,7 +18,7 @@ Hi there 👋, my name is Amogh and I help people and organizations take their m
   * Quizzing
   * Reading about History, Economics and Linguistics
 
-# Blog posts
+### My writings
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
