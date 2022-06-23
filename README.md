@@ -28,7 +28,7 @@
 ### My writings
 <!-- BLOG-POST-LIST:START -->
 - [Tracking the COVID-19 outbreak in India using Python](https://medium.com/swlh/tracking-the-covid-19-outbreak-in-india-using-python-c938eb824ba3?source=rss-966c64a2a0c5------2)
-- [Utilising CNNs to transform your model into a budding artist](https://medium.com/@singhal.amogh1995/utilising-cnns-to-transform-your-model-into-a-budding-artist-1330dc392e25?source=rss-966c64a2a0c5------2)
+- [Utilising CNNs to transform your model into a budding artist](https://becominghuman.ai/utilising-cnns-to-transform-your-model-into-a-budding-artist-1330dc392e25?source=rss-966c64a2a0c5------2)
 - [How is Data Science assisting FinTech?](https://medium.com/@singhal.amogh1995/how-is-data-science-assisting-fintech-1e672810edb3?source=rss-966c64a2a0c5------2)
 - [Deciphering prime numbers and their significance](https://medium.com/@singhal.amogh1995/deciphering-prime-numbers-and-their-significance-dd7803e959d2?source=rss-966c64a2a0c5------2)
 - [Debunking OOPs in C : Part 2](https://medium.com/@singhal.amogh1995/debunking-oops-in-c-part-2-a0f8e1108c85?source=rss-966c64a2a0c5------2)
