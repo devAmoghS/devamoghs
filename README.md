@@ -34,7 +34,8 @@
 - [Debunking OOPs in C : Part 2](https://medium.com/@singhal.amogh1995/debunking-oops-in-c-part-2-a0f8e1108c85?source=rss-966c64a2a0c5------2)
 <!-- BLOG-POST-LIST:END -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devAmoghS)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devAmoghS&theme=tokyonight)](https://git.io/streak-stats)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devAmoghS&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />
